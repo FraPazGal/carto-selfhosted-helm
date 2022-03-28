@@ -1,5 +1,7 @@
 # Contributing to this repository
 
+TESTING `*.md` VIB EXCLUSION
+
 Thanks for taking the time to contribute! The following is a set of guidelines for contributing to our project.
 We encourage everyone to follow them with their best judgement.
 
