@@ -16,7 +16,7 @@ dependencies:
     alias: internalRedis
     repository: https://charts.bitnami.com/bitnami
     version: 16.x.x
-description: CARTO Location Intelligence Platform. Unlock the power of spatial analysis in the cloud
+description: [TEST] CARTO Location Intelligence Platform. Unlock the power of spatial analysis in the cloud
 engine: gotpl
 home: https://github.com/CartoDB/carto-selfhosted-helm/tree/main/chart
 keywords:

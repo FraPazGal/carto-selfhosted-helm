@@ -1,7 +1,7 @@
 # CARTO Self Hosted [Helm chart]
 
 This repository contains the [Kubernetes Helm](https://github.com/helm/helm) chart files for CARTO Platform. Run CARTO Self Hosted in your own cloud infrastructure.
-TEST
+
 If you are looking for another installation method, please refer to [carto-selfhosted repository](https://github.com/CartoDB/carto-selfhosted).
 
 ## Installation
